@@ -55,7 +55,7 @@ Installation
 
 6. Test the installation running the development web-server (http://localhost:8000 on your browser):
 
-    `python manage runserver`
+    `python manage.py runserver`
 
 [virtualenv]: http://www.virtualenv.org/en/latest/    
 [pip]: http://www.pip-installer.org/en/latest/
