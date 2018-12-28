@@ -51,7 +51,7 @@ Installation
 
 5. Initialize the database and all applications:
 
-    `python manage migrate`
+    `python manage.py migrate`
 
 6. Test the installation running the development web-server (http://localhost:8000 on your browser):
 
